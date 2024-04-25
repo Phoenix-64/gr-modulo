@@ -1,0 +1,43 @@
+Start testing: Apr 26 01:29 CEST
+----------------------------------------------------------
+1/2 Testing: modulo_qa_modulo_operator.cc
+1/2 Test: modulo_qa_modulo_operator.cc
+Command: "/usr/bin/sh" "modulo_qa_modulo_operator.cc_test.sh"
+Directory: /home/benjamin/GNU_learning/gr-modulo/build/lib
+"modulo_qa_modulo_operator.cc" start time: Apr 26 01:29 CEST
+Output:
+----------------------------------------------------------
+Running 1 test case...
+
+[1;32;49m*** No errors detected
+[0;39;49m
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"modulo_qa_modulo_operator.cc" end time: Apr 26 01:29 CEST
+"modulo_qa_modulo_operator.cc" time elapsed: 00:00:00
+----------------------------------------------------------
+
+2/2 Testing: qa_modulo_operator
+2/2 Test: qa_modulo_operator
+Command: "/usr/bin/sh" "qa_modulo_operator_test.sh"
+Directory: /home/benjamin/GNU_learning/gr-modulo/build/python/modulo
+"qa_modulo_operator" start time: Apr 26 01:29 CEST
+Output:
+----------------------------------------------------------
+..
+----------------------------------------------------------------------
+Ran 2 tests in 0.004s
+
+OK
+[1.2999999523162842, 2.0999999046325684, 0.5, 3.299999237060547]
+<end of output>
+Test time =   0.26 sec
+----------------------------------------------------------
+Test Passed.
+"qa_modulo_operator" end time: Apr 26 01:29 CEST
+"qa_modulo_operator" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Apr 26 01:29 CEST

@@ -1,0 +1,22 @@
+[
+{
+  "directory": "/home/benjamin/GNU_learning/gr-modulo/build/lib",
+  "command": "/usr/bin/c++ -DBOOST_ALL_NO_LIB -DBOOST_ATOMIC_DYN_LINK -DBOOST_THREAD_DYN_LINK -DFMT_LOCALE -DFMT_SHARED -DGR_CTRLPORT -DGR_MPLIB_GMP -DGR_PERFORMANCE_COUNTERS -DSPDLOG_COMPILED_LIB -DSPDLOG_FMT_EXTERNAL -DSPDLOG_SHARED_LIB -Dgnuradio_modulo_EXPORTS -I/home/benjamin/GNU_learning/gr-modulo/lib/../include  -fvisibility=hidden -Wsign-compare -Wall -Wno-uninitialized -O3 -DNDEBUG -fPIC -o CMakeFiles/gnuradio-modulo.dir/modulo_operator_impl.cc.o -c /home/benjamin/GNU_learning/gr-modulo/lib/modulo_operator_impl.cc",
+  "file": "/home/benjamin/GNU_learning/gr-modulo/lib/modulo_operator_impl.cc"
+},
+{
+  "directory": "/home/benjamin/GNU_learning/gr-modulo/build/lib",
+  "command": "/usr/bin/c++ -DBOOST_ALL_NO_LIB -DBOOST_ATOMIC_DYN_LINK -DBOOST_TEST_DYN_LINK -DBOOST_TEST_MAIN -DBOOST_THREAD_DYN_LINK -DBOOST_UNIT_TEST_FRAMEWORK_DYN_LINK -DFMT_LOCALE -DFMT_SHARED -DGR_CTRLPORT -DGR_MPLIB_GMP -DGR_PERFORMANCE_COUNTERS -DSPDLOG_COMPILED_LIB -DSPDLOG_FMT_EXTERNAL -DSPDLOG_SHARED_LIB -I/home/benjamin/GNU_learning/gr-modulo/lib/../include  -fvisibility=hidden -Wsign-compare -Wall -Wno-uninitialized -O3 -DNDEBUG -o CMakeFiles/modulo_qa_modulo_operator.cc.dir/qa_modulo_operator.cc.o -c /home/benjamin/GNU_learning/gr-modulo/lib/qa_modulo_operator.cc",
+  "file": "/home/benjamin/GNU_learning/gr-modulo/lib/qa_modulo_operator.cc"
+},
+{
+  "directory": "/home/benjamin/GNU_learning/gr-modulo/build/python/modulo/bindings",
+  "command": "/usr/bin/c++ -DBOOST_ALL_NO_LIB -DBOOST_ATOMIC_DYN_LINK -DBOOST_DATE_TIME_DYN_LINK -DBOOST_PROGRAM_OPTIONS_DYN_LINK -DBOOST_REGEX_DYN_LINK -DBOOST_SYSTEM_DYN_LINK -DBOOST_THREAD_DYN_LINK -DBOOST_UNIT_TEST_FRAMEWORK_DYN_LINK -DFMT_LOCALE -DFMT_SHARED -DGR_CTRLPORT -DGR_MPLIB_GMP -DGR_PERFORMANCE_COUNTERS -DSPDLOG_COMPILED_LIB -DSPDLOG_FMT_EXTERNAL -DSPDLOG_SHARED_LIB -Dmodulo_python_EXPORTS -I/home/benjamin/GNU_learning/gr-modulo/build/python/modulo/bindings -I/home/benjamin/GNU_learning/gr-modulo/python/modulo/bindings/../../../lib -I/home/benjamin/GNU_learning/gr-modulo/python/modulo/bindings/../../../include -I/home/benjamin/GNU_learning/gr-modulo/lib/../include -isystem /usr/include/python3.10 -isystem /usr/lib/python3/dist-packages/numpy/core/include  -fvisibility=hidden -Wsign-compare -Wall -Wno-uninitialized -O3 -DNDEBUG -fPIC -fvisibility=hidden -Wno-unused-variable -flto -fno-fat-lto-objects -o CMakeFiles/modulo_python.dir/modulo_operator_python.cc.o -c /home/benjamin/GNU_learning/gr-modulo/python/modulo/bindings/modulo_operator_python.cc",
+  "file": "/home/benjamin/GNU_learning/gr-modulo/python/modulo/bindings/modulo_operator_python.cc"
+},
+{
+  "directory": "/home/benjamin/GNU_learning/gr-modulo/build/python/modulo/bindings",
+  "command": "/usr/bin/c++ -DBOOST_ALL_NO_LIB -DBOOST_ATOMIC_DYN_LINK -DBOOST_DATE_TIME_DYN_LINK -DBOOST_PROGRAM_OPTIONS_DYN_LINK -DBOOST_REGEX_DYN_LINK -DBOOST_SYSTEM_DYN_LINK -DBOOST_THREAD_DYN_LINK -DBOOST_UNIT_TEST_FRAMEWORK_DYN_LINK -DFMT_LOCALE -DFMT_SHARED -DGR_CTRLPORT -DGR_MPLIB_GMP -DGR_PERFORMANCE_COUNTERS -DSPDLOG_COMPILED_LIB -DSPDLOG_FMT_EXTERNAL -DSPDLOG_SHARED_LIB -Dmodulo_python_EXPORTS -I/home/benjamin/GNU_learning/gr-modulo/build/python/modulo/bindings -I/home/benjamin/GNU_learning/gr-modulo/python/modulo/bindings/../../../lib -I/home/benjamin/GNU_learning/gr-modulo/python/modulo/bindings/../../../include -I/home/benjamin/GNU_learning/gr-modulo/lib/../include -isystem /usr/include/python3.10 -isystem /usr/lib/python3/dist-packages/numpy/core/include  -fvisibility=hidden -Wsign-compare -Wall -Wno-uninitialized -O3 -DNDEBUG -fPIC -fvisibility=hidden -Wno-unused-variable -flto -fno-fat-lto-objects -o CMakeFiles/modulo_python.dir/python_bindings.cc.o -c /home/benjamin/GNU_learning/gr-modulo/python/modulo/bindings/python_bindings.cc",
+  "file": "/home/benjamin/GNU_learning/gr-modulo/python/modulo/bindings/python_bindings.cc"
+}
+]
